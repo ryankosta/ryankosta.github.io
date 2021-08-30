@@ -1,0 +1,17 @@
+site_name: Ryan Kosta's Home page 
+site_url: https://example.com/
+
+nav:
+  - Home: index.md
+  - Projects:
+    - CPUs: projects/cpus.md
+  - Learning:
+    - Learn: selflearn/learn.md
+    - 'Computer Architecture': selflearn/arch.md
+    - "Operating Systems" : selflearn/os.md
+    - "Linux" : selflearn/linux.md
+  - Music:
+    - "Setup" : music/setup.md
+    - "Shows" : music/shows.md
+theme:
+  name: readthedocs
