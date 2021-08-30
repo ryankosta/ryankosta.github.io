@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="canonical" href="https://example.com/selflearn/os/">
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Operating Systems - Ryan Kosta's Home page</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Operating Systems";
+    var mkdocs_page_input_path = "selflearn/os.md";
+    var mkdocs_page_url = "/selflearn/os/";
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> Ryan Kosta's Home page</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/cpus/">CPUs</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Learning</span></p>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../learn/">Learn</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../arch/">Computer Architecture</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Operating Systems</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#do-it-yourself">Do it yourself</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#which-isa-to-choose">Which ISA to choose</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#working-with-risc-v-resources">Working with Risc-V resources</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#learn-how-its-already-done">Learn how its already done</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#tools">Tools</a>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../linux/">Linux</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Music</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../music/setup/">Setup</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../music/shows/">Shows</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">Ryan Kosta's Home page</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Learning &raquo;</li>
+        
+      
+    
+    <li>Operating Systems</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="operating-system">Operating System</h1>
+<h2 id="do-it-yourself">Do it yourself</h2>
+<p><a href="https://wiki.osdev.org">OSDev</a> is by and far the best resource in this aspect. I reccomend building an understanding of ISAs before beginning in this project.</p>
+<h2 id="which-isa-to-choose">Which ISA to choose</h2>
+<p>Many people choose x86 as their first ISA as it has extensive documentation. This is a solid choice, however, I think Risc-V offers a compelling open source option thats fairly easy to work with.</p>
+<h2 id="working-with-risc-v-resources">Working with Risc-V resources</h2>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Description</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://osblog.stephenmarz.com/ch1.html">RISC-V OS Using Rust</a></td>
+<td>Good tutorial of how to work with Risc-v (in rust)</td>
+<td><a href="https://marz.utk.edu/">Stephen Marz</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/mit-pdos/xv6-riscv#readme">Xv6-RISCV Source</a></td>
+<td>Unix-v6 in RISC-V (also availaible in x86)</td>
+<td>See Authors on <a href="https://github.com/mit-pdos/xv6-riscv/blob/riscv/README">readme</a></td>
+</tr>
+<tr>
+<td><a href="https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf">Xv6-RISCV Book</a></td>
+<td>Unix-v6 in RISC-V Book documentation</td>
+<td><a href="https://swtch.com/~rsc/">Russ Cox</a>, <a href="http://people.csail.mit.edu/kaashoek/">Frans Kaashoek</a>, <a href="https://www.csail.mit.edu/person/robert-morris">Robert Morris</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="learn-how-its-already-done">Learn how its already done</h2>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Description</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The design of the Unix Operating System</td>
+<td>Great to learn historical (simple + fundamental) OS design choices</td>
+<td>Maurice J. Bach</td>
+</tr>
+<tr>
+<td><a href="https://docs.freebsd.org/en/books/design-44bsd/">Design and Implementation of the 4.4BSD Operating System</a></td>
+<td>Covers transition into more modern OS design</td>
+<td><a href="https://www.mckusick.com/">Kirk McKusick</a>, <a href="https://bostic.com">Keith Bostic</a>, <a href="https://www.linkedin.com/in/mike-karels-9b890020/">Mike Karels</a>,<a href="https://www.wikiwand.com/en/John_Quarterman">John Quarterman</a></td>
+</tr>
+<tr>
+<td>Design and Implementation of the FreeBSD Operating System (2nd edition)</td>
+<td>Covers more modern OS design</td>
+<td><a href="https://www.mckusick.com/">Kirk McKusick</a>, <a href="https://http://www.neville-neilconsulting.com/">George V. Neville-Neil</a>, <a href="https://www.cl.cam.ac.uk/~rnw24/">Robert Watson</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="tools">Tools</h2>
+<ul>
+<li>Gnu toolchain (cross compiler version for target ISA) </li>
+<li>GDB</li>
+<li>Qemu</li>
+<li>Gnu Make </li>
+<li>Real hardware + jtag (or swd)</li>
+</ul>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../linux/" class="btn btn-neutral float-right" title="Linux">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../arch/" class="btn btn-neutral" title="Computer Architecture"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../arch/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../linux/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
