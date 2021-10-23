@@ -3,7 +3,8 @@
 
 Hello! I am Ryan Kosta. I am a current undergraduate at University of California San Diego, studying Computer Engineering.
 
-I am interested in computer architecture, operating systems, and reprogrammable hardware.
+I do research in the CSE department with Prof. Yiying Zhang, see [Research](research/research/) page for more information.
+
 
 ### Languages
 - C
@@ -16,9 +17,10 @@ I am interested in computer architecture, operating systems, and reprogrammable 
 - Pandas
 - Discourse
 
-### Work experience
+### Experience
 
-I am the lead Computer Engineering intern at the education technology startup [Haddee](https://haddee.com). This is a large role comprising many duties, including
+#### Industry 
+I was the lead Computer Engineering intern at the education technology startup [Haddee](https://haddee.com). This was a large role comprising many duties, including
 
 - Setup and maintain the original haddee and class.haddee website
 - Help integrate features into the haddee.com platform
