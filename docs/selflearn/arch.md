@@ -6,7 +6,7 @@ Here are my reccomended resources for studying computer architecture
 
 |Title|Description|Author|
 |-----|-----------|------|
-|Computer Archicture: A Quantitive Approach| Describes advanvanced Computer Architecture concepts| Patterson and Hennessey|
+|Computer Archicture: A Quantitive Approach| Describes advanced Computer Architecture concepts| Patterson and Hennessey|
 |Computer Organization and Design RISC-V Edition|A good introduction to computer ISAs|Patterson and Hennesey|
 
 ##Tools
