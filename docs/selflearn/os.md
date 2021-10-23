@@ -5,6 +5,8 @@
 ##Which ISA to choose
 Many people choose x86 as their first ISA as it has extensive documentation. This is a solid choice, however, I think Risc-V offers a compelling open source option thats fairly easy to work with.
 
+##Lecture Series
+My favorite OS lecture series are by Prof. [Geoffrey Challen](https://www.geoffreychallen.com/). The assignments, sample exams, and lectures are all available at [ops-class](https://ops-class.org/).
 ##Working with Risc-V resources
 |Title|Description|Author|
 |-----|-----------|------|
