@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/music/setup/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/music/shows/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/notes/bpftrace/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/notes/dpdk-ovs/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/notes/paging/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/projects/cpus/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/research/research/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/selflearn/arch/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/selflearn/learn/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/selflearn/linux/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/selflearn/os/</loc>
-         <lastmod>2022-07-02</lastmod>
+         <lastmod>2022-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
