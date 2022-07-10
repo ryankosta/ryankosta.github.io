@@ -16,4 +16,26 @@ nav:
     - "Setup" : music/setup.md
     - "Shows" : music/shows.md
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions:
+  - attr_list
+  - md_in_html
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ryankosta
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ryankosta/

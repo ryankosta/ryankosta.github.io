@@ -1,35 +1,21 @@
+![portrait](me.jpeg){: align=right style="height:300px;width:200px;"}
 # Home 
+Hello! I'm Ryan Kosta, an incoming Sophomore at UC San Diego, studying Computer Engineering.
 
-Hello! I am Ryan Kosta. I am a current undergraduate at University of California San Diego, studying Computer Engineering.
+I conduct systems research with Associate Professor [Yiying Zhang](https://cseweb.ucsd.edu/~yiying/), see [Research](research/research/) page for more information.
 
-I do research in the CSE department with Prof. Yiying Zhang, see [Research](research/research/) page for more information.
+My research interests span Operating Systems, Disaggregated Computing, and Computer Architecture.
 
-My research interests span Disaggregated Computing and Computer Architecture.
+Always excited to discuss research with those in industry, academia, or who are interested!
 
-Please reach out at [rkosta@ucsd.edu](rkosta@ucsd.edu)
+Definitely reach out: **rkosta** AT **ucsd.edu**
 
-![portrait](me.jpeg)
-
-
-### Languages
-- C
-- Bash
-- Python
-- Verilog
-- Java
-- Scala
-- SpinalHDL
-- Rust
-### Software
-- Linux
-- VPP
-- OVS
-- Pandas
-- Discourse
 
 ### Experience
 #### Research
-##### Disaggregating and consolidating Network functionalities with [SuperNIC](https://arxiv.org/abs/2109.07744)
+- Switch-OS: (Current Project) Schedule and Coordinate Communication between Heterogeneous Compute with a P4 Switch
+- SuperNIC: ([Arxiv](https://arxiv.org/abs/2109.07744))
+FPGA-based Disaggregated Multi-Tenant Programmable NIC
 
 #### Industry 
 I was the lead Computer Engineering intern at the education technology startup [Haddee](https://haddee.com). This was a large role comprising many duties, including
@@ -38,3 +24,12 @@ I was the lead Computer Engineering intern at the education technology startup [
 - Integrate features into the platform based on business needs 
 - Work with international development teams to coordinate development of a new platform 
 - Hire and manage a team of other interns doing similar work
+
+### Social
+- [Google Scholar](https://scholar.google.com/citations?user=RVvydmkAAAA)
+- [Github](https://github.com/ryankosta)
+- [LinkedIn](https://www.linkedin.com/in/ryankosta/)
+
+### Skills
+- Languages: C, Python, Bash, Verilog, Java, RISC-V Assembly, Scala
+- Software: SpinalHDL, VPP, OVS, Discourse, Docker, Linux 

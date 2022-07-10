@@ -4,6 +4,8 @@ My CPU projects have been thus far designed simply to get me accustomed to learn
 
 My initial projects mostly use very low level constructs (such as gate level logic) that are great for learning but not as good for actual production code.
 
+I hope to design another CPU using SpinalHDL utilizing it's features for a more testible CPU with advanced design elements such as out of order execution and branch prediction. I'm really interested in designing a CPU with dissagregation in mind. 
+
 ##[R100](https://github.com/ryankosta/r100)
 - Risc-V
 - Verilog
