@@ -3,8 +3,7 @@ site_url: https://example.com/
 
 nav:
   - Home: index.md
-  - Research:
-    - Research: research/research.md
+  - Research: research/research.md
   - Projects:
     - CPUs: projects/cpus.md
   - Learning:
@@ -31,6 +30,9 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - md_in_html
 extra:
