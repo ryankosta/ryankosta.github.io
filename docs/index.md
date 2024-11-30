@@ -16,16 +16,16 @@ Definitely reach out: **rkosta** AT **ucsd.edu**
 ## Research
 !!! abstract "Posters"
 	1. [Catena: A Scheduling System for Microsecond-Level Microservice DAGs.](media/osdi-23-poster-catena-full.pdf)     
-	Ryan Kosta, Amy Ousterhout, Yiying Zhang  
+	**Ryan Kosta**, Amy Ousterhout, Yiying Zhang  
 	(OSDI 23' Poster Session)
 	2. [Consolidating Network Resources with Rack-Level Network Pooling.](media/osdi-23-poster-snic-full.pdf) 
-	Will Lin, Ryan Kosta, Arvind Krishnamurthy, Yiying Zhang.    
+	Will Lin, **Ryan Kosta**, Arvind Krishnamurthy, Yiying Zhang.    
 	(OSDI 23' Poster Session)
 
 !!! abstract "Papers"
-	1. [Disaggregating and Consolidating Network Functionalities with SuperNIC](https://arxiv.org/pdf/2109.07744.pdf)  
-	Yizhou Shan, Will Lin, Ryan Kosta, Arvind Krishnamurthy, Yiying Zhang    
-	arXiv:2109.07744 (arxiv 2021) 
+	1. [SuperNIC: An FPGA-Based, Cloud-Oriented SmartNIC](https://dl.acm.org/doi/10.1145/3626202.3637564)  
+	Yizhou Shan, Will Lin, **Ryan Kosta**, Arvind Krishnamurthy, Yiying Zhang    
+	2024 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA '24)
 	
 For more information see [research](research/research.md)!
 
