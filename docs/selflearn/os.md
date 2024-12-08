@@ -23,7 +23,7 @@
 4. File Systems: How do we store data 
 #### What is typically ignored 
 - drivers
-- TCP layer
+- Network subsystem 
 ### Project component
 #### Approach 1: Build an OS
 - in this style of class, you build an OS "from scratch", building it up with new components as you learn throughout class
