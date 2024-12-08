@@ -1,12 +1,19 @@
 ![portrait](me.jpeg){: align=right style="height:300px;width:200px;"}
 
 # Home 
+## Who am I
 
 Hello! I'm Ryan Kosta, a senior at UC San Diego, studying Computer Science.
 
 I conduct systems research with Associate Professor [Yiying Zhang](https://cseweb.ucsd.edu/~yiying/) and Assistant Professor [Amy Ousterhout](https://amyousterhout.com/), see [Research](research/research/) page for more information.
 
+I also recently completed a summer research internship at EPFL with Full Professor [Edouard Bugnion](https://people.epfl.ch/edouard.bugnion) (Co-founder of VMware and Nuova systems)
+
+### What I do 
+
 My research interests span Operating Systems, Datacenter Networks, and Computer Architecture.
+
+In my free time I like learning languages, exploring, and occasionally playing guitar or videogames
 
 Always excited to discuss research with those in industry, academia, or who are interested!
 
@@ -24,8 +31,9 @@ Definitely reach out: **rkosta** AT **ucsd.edu**
 
 !!! abstract "Papers"
 	1. [SuperNIC: An FPGA-Based, Cloud-Oriented SmartNIC](https://dl.acm.org/doi/10.1145/3626202.3637564)  
-	Yizhou Shan, Will Lin, **Ryan Kosta**, Arvind Krishnamurthy, Yiying Zhang    
+	Will Lin\*, Yizhou Shan\*, **Ryan Kosta**, Arvind Krishnamurthy, Yiying Zhang    
 	2024 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA '24)
+	(\* equal contributors)
 	
 For more information see [research](research/research.md)!
 
