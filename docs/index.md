@@ -2,7 +2,7 @@
 
 # Home 
 
-Hello! I'm Ryan Kosta, a junior at UC San Diego, studying Computer Science.
+Hello! I'm Ryan Kosta, a senior at UC San Diego, studying Computer Science.
 
 I conduct systems research with Associate Professor [Yiying Zhang](https://cseweb.ucsd.edu/~yiying/) and Assistant Professor [Amy Ousterhout](https://amyousterhout.com/), see [Research](research/research/) page for more information.
 
