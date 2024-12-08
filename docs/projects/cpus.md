@@ -1,12 +1,14 @@
-#CPUs
+# CPUs
+## Introduction
+### What these are
+- Not a research project
+- Mostly just for fun and to get a bit accustomed to computer archtecture
+- The first big projects I did (incidentally making Verilog one of the first coding languages I really learned)
+- These probably don't fully work. Not sure how much testing I did
+- I did eventually design a fully working CPU in a class CSE141L, though the class forbids open sourcing :(
 
-My CPU projects have been thus far designed simply to get me accustomed to learning digital design and Computer Architecture. 
-
-My initial projects mostly use very low level constructs (such as gate level logic) that are great for learning but not as good for actual production code.
-
-I hope to design another CPU using SpinalHDL utilizing it's features for a more testible CPU with advanced design elements such as out of order execution and branch prediction. I'm really interested in designing a CPU with dissagregation in mind. 
-
-##[R100](https://github.com/ryankosta/r100)
+## [R100](https://github.com/ryankosta/r100)
+### Introduction
 - Risc-V
 - Verilog
 - Mostly gate level logic
@@ -14,7 +16,7 @@ I hope to design another CPU using SpinalHDL utilizing it's features for a more 
 
 This was my first cpu to learn simple logic design. I never tested it using full Risc-V tests rather I used smaller tests just to ensure basic functionality.
 
-##[R200](https://github.com/ryankosta/r200)
+## [R200](https://github.com/ryankosta/r200)
 - Partial redesign of r100 
 - Verilog
 - Pipelined 
