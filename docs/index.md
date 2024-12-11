@@ -21,14 +21,6 @@ Definitely reach out: **rkosta** AT **ucsd.edu**
 
 
 ## Research
-!!! abstract "Posters"
-	1. [Catena: A Scheduling System for Microsecond-Level Microservice DAGs.](media/osdi-23-poster-catena-full.pdf)     
-	**Ryan Kosta**, Amy Ousterhout, Yiying Zhang  
-	17th USENIX Symposium on Operating Systems Design and Implementation. (OSDI 23' Poster Session)	
-	2. [Consolidating Network Resources with Rack-Level Network Pooling.](media/osdi-23-poster-snic-full.pdf)  
-	Will Lin, **Ryan Kosta**, Arvind Krishnamurthy, Yiying Zhang.    
-	17th USENIX Symposium on Operating Systems Design and Implementation. (OSDI 23' Poster Session)
-
 !!! abstract "Papers"
 	1. SIRD: A Sender-Informed Reciever-Driven Datacenter Transport Protocol   
 	Konstantinos Prasopoulos, **Ryan Kosta**, Edouard Bugnion, Marios Kogias.  
@@ -37,6 +29,15 @@ Definitely reach out: **rkosta** AT **ucsd.edu**
 	Will Lin\*, Yizhou Shan\*, **Ryan Kosta**, Arvind Krishnamurthy, Yiying Zhang    
 	2024 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA '24)  
 	(\* equal contributors)
+
+!!! abstract "Posters"
+	1. [Catena: A Scheduling System for Microsecond-Level Microservice DAGs.](media/osdi-23-poster-catena-full.pdf)     
+	**Ryan Kosta**, Amy Ousterhout, Yiying Zhang  
+	17th USENIX Symposium on Operating Systems Design and Implementation. (OSDI 23' Poster Session)	
+	2. [Consolidating Network Resources with Rack-Level Network Pooling.](media/osdi-23-poster-snic-full.pdf)  
+	Will Lin, **Ryan Kosta**, Arvind Krishnamurthy, Yiying Zhang.    
+	17th USENIX Symposium on Operating Systems Design and Implementation. (OSDI 23' Poster Session)
+
 	
 For more information see [research](research/research.md)!
 
