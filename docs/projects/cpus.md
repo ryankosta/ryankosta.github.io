@@ -2,10 +2,10 @@
 ## Introduction
 ### What these are
 - Not a research project
-- Mostly just for fun and to get a bit accustomed to computer archtecture
+- Mostly just for fun and to get a bit accustomed to computer architecture
 - The first big projects I did (incidentally making Verilog one of the first coding languages I really learned)
 - These probably don't fully work. Not sure how much testing I did
-- I did eventually design a fully working CPU in a class CSE141L, though the class forbids open sourcing :(
+- I did eventually design a fully tested CPU in a class CSE141L, though the class forbids open sourcing :(
 
 ## [R100](https://github.com/ryankosta/r100)
 ### Introduction
