@@ -1,5 +1,5 @@
 # Research
-I am currently researching at UC San Diego co-advised by Prof. Yiying Zhang ([Wuklab](https://wuklab.io)) and Prof. Amy Ousterhout. 
+I am currently researching at UC San Diego co-advised by Amy Ousterhout and Alex Snoeren 
 
 In general, I am interested in innovating computer hardware and operating systems, and all that lies in between.
 ## Research Interests
@@ -10,10 +10,10 @@ In general, I am interested in innovating computer hardware and operating system
 
 ## Papers
 
-1. SIRD: A Sender-Informed Reciever-Driven Datacenter Transport Protocol   
+1. **[SIRD: A Sender-Informed Reciever-Driven Datacenter Transport Protocol](https://www.usenix.org/conference/nsdi25/presentation/prasopoulos)**   
 Konstantinos Prasopoulos, Ryan Kosta, Edouard Bugnion, Marios Kogias.  
-To appear in 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI '25) 
-2. [SuperNIC: An FPGA-Based, Cloud-Oriented SmartNIC](https://dl.acm.org/doi/10.1145/3626202.3637564)  
+22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI '25) 
+2. **[SuperNIC: An FPGA-Based, Cloud-Oriented SmartNIC](https://dl.acm.org/doi/10.1145/3626202.3637564)**  
 Will Lin\*, Yizhou Shan\*, Ryan Kosta, Arvind Krishnamurthy, Yiying Zhang    
 2024 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA '24)  
 (\* equal contributors)

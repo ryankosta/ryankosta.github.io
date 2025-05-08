@@ -3,17 +3,21 @@
 # Home 
 ## Who am I
 
-Hello! I'm Ryan Kosta, a senior at UC San Diego, studying Computer Science.
+Hello! I'm Ryan Kosta, an incoming PhD student at UC San Diego, studying Computer Science.
 
-I conduct systems research with Associate Professor [Yiying Zhang](https://cseweb.ucsd.edu/~yiying/) and Assistant Professor [Amy Ousterhout](https://amyousterhout.com/), see [Research](research/research/) page for more information.
+I am advised by [Amy Ousterhout](https://amyousterhout.com/) and [Alex Snoeren](https://cseweb.ucsd.edu/~snoeren/)
 
-I also recently completed a summer research internship at EPFL with Full Professor [Edouard Bugnion](https://people.epfl.ch/edouard.bugnion) (Co-founder of VMware and Nuova systems)
+During my undergrad (also at UCSD) I was advised by [Yiying Zhang](https://cseweb.ucsd.edu/~yiying/) and [Amy Ousterhout](https://amyousterhout.com/).
+
+I also recently completed a summer research internship at EPFL with [Edouard Bugnion](https://people.epfl.ch/edouard.bugnion) (Co-founder of VMware and Nuova systems)
 
 ### What I do 
 
 My research interests span Operating Systems, Datacenter Networks, and Computer Architecture.
 
 In my free time I like learning languages, exploring, and occasionally playing guitar or videogames
+
+### Contact
 
 Always excited to discuss research with those in industry, academia, or who are interested!
 
@@ -22,9 +26,9 @@ Definitely reach out: **rkosta** AT **ucsd.edu**
 
 ## Research
 !!! abstract "Papers"
-	1. SIRD: A Sender-Informed Reciever-Driven Datacenter Transport Protocol   
+	1. [SIRD: A Sender-Informed Reciever-Driven Datacenter Transport Protocol](https://www.usenix.org/conference/nsdi25/presentation/prasopoulos)   
 	Konstantinos Prasopoulos, **Ryan Kosta**, Edouard Bugnion, Marios Kogias.  
-	To appear in 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI '25) 
+	22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI '25) 
 	2. [SuperNIC: An FPGA-Based, Cloud-Oriented SmartNIC](https://dl.acm.org/doi/10.1145/3626202.3637564)  
 	Will Lin\*, Yizhou Shan\*, **Ryan Kosta**, Arvind Krishnamurthy, Yiying Zhang    
 	2024 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA '24)  
@@ -49,6 +53,7 @@ For more information see [research](research/research.md)!
 	- Hire and manage a team of other interns doing similar work
 
 ## Volunteer
+- 2024-Ongoing: Volunteer (Espresso Executive) for UCSD CSE's [Chez Bob](https://chezbob.ucsd.edu/)
 - 2024-Ongoing: Chair of event planning for [UCSD Graduate Women in Computing](https://gradwic.ucsd.edu/)
 - 2023-2024: Co-chair of event planning and publicity for [UCSD Graduate Women in Computing](https://gradwic.ucsd.edu/)
 - 2023-2024: President of Origami Folders club at UCSD 
