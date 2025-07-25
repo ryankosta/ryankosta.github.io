@@ -54,7 +54,7 @@ For more information see [research](research/research.md)!
 
 ## Volunteer
 - 2024-Ongoing: Volunteer (Espresso Executive) for UCSD CSE's [Chez Bob](https://chezbob.ucsd.edu/)
-- 2024-Ongoing: Chair of event planning for [UCSD Graduate Women in Computing](https://gradwic.ucsd.edu/)
+- 2024-2025: Chair of event planning for [UCSD Graduate Women in Computing](https://gradwic.ucsd.edu/)
 - 2023-2024: Co-chair of event planning and publicity for [UCSD Graduate Women in Computing](https://gradwic.ucsd.edu/)
 - 2023-2024: President of Origami Folders club at UCSD 
 - 2022 : Session Chair for [WORDS 22](https://www.wordsworkshop.org/words-2022) 
